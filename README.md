@@ -1,4 +1,5 @@
-## Title of the Project
+## CropMind – AI-Powered Agricultural Recommendation Engine
+
 Small description about the project like one below
 The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
 
