@@ -1,11 +1,11 @@
 ## CropMind – AI-Powered Agricultural Recommendation Engine
 
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+CropXpert is an AI-powered agricultural decision-support system using a Hybrid Prediction Algorithm that combines machine learning and an Agricultural Knowledge Engine. It analyzes 11 agricultural parameters to deliver personalized crop recommendations with explanations and confidence metrics. Built with FastAPI, React, scikit-learn, and MongoDB, it enables smart, data-driven precision farming.
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+CropXpert is a cutting-edge AI-powered agricultural decision-support system leveraging advanced machine learning algorithms and artificial intelligence techniques to provide personalized, data-driven crop recommendations. The system integrates a sophisticated Hybrid Prediction Algorithm (HPA) combining traditional machine learning classifiers with an Agricultural Knowledge Engine (AKE) to achieve superior accuracy in crop selection optimization.
+The traditional approach relies heavily on farmer experience and basic soil testing, leading to suboptimal crop choices and reduced yields. CropXpert addresses this by providing automated intelligent analysis of 11 comprehensive agricultural parameters, delivering personalized recommendations within seconds with detailed explanations and confidence metrics.
+The architecture uses a FastAPI backend, a React-based frontend, and scikit-learn classifiers for accurate prediction. Key features include professional authentication, comprehensive parameter input, a dual prediction system, detailed explanation reports (4-5 lines), and an integrated agricultural chatbot. The system uses MongoDB for efficient storage of user profiles and recommendation histories.
 
 ## Features
 <!--List the features of the project as shown below-->
